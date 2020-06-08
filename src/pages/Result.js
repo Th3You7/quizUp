@@ -56,7 +56,7 @@ const Result = () => {
       ) : score === 0 ? (
         <>
           <Img src={shoked} alt="shoked" />
-          <Text>Are you Dumb, Crazy or Dump ?!</Text>
+          <Text>Are you Dumb, Stupid or Dump huh ?!</Text>
         </>
       ) : score > 0 && score < 5 ? (
         <>
