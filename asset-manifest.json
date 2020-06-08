@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Th3You7/quizUp.git/static/css/main.a44c706b.chunk.css",
+    "main.js": "/Th3You7/quizUp.git/static/js/main.b37fb8cf.chunk.js",
+    "main.js.map": "/Th3You7/quizUp.git/static/js/main.b37fb8cf.chunk.js.map",
+    "runtime-main.js": "/Th3You7/quizUp.git/static/js/runtime-main.316229a1.js",
+    "runtime-main.js.map": "/Th3You7/quizUp.git/static/js/runtime-main.316229a1.js.map",
+    "static/js/2.3470cb95.chunk.js": "/Th3You7/quizUp.git/static/js/2.3470cb95.chunk.js",
+    "static/js/2.3470cb95.chunk.js.map": "/Th3You7/quizUp.git/static/js/2.3470cb95.chunk.js.map",
+    "static/js/3.592761e5.chunk.js": "/Th3You7/quizUp.git/static/js/3.592761e5.chunk.js",
+    "static/js/3.592761e5.chunk.js.map": "/Th3You7/quizUp.git/static/js/3.592761e5.chunk.js.map",
+    "static/js/4.229e747a.chunk.js": "/Th3You7/quizUp.git/static/js/4.229e747a.chunk.js",
+    "static/js/4.229e747a.chunk.js.map": "/Th3You7/quizUp.git/static/js/4.229e747a.chunk.js.map",
+    "static/js/5.61bfc3ce.chunk.js": "/Th3You7/quizUp.git/static/js/5.61bfc3ce.chunk.js",
+    "static/js/5.61bfc3ce.chunk.js.map": "/Th3You7/quizUp.git/static/js/5.61bfc3ce.chunk.js.map",
+    "index.html": "/Th3You7/quizUp.git/index.html",
+    "precache-manifest.9405f693566c4de72091ef71a569bdb1.js": "/Th3You7/quizUp.git/precache-manifest.9405f693566c4de72091ef71a569bdb1.js",
+    "service-worker.js": "/Th3You7/quizUp.git/service-worker.js",
+    "static/css/main.a44c706b.chunk.css.map": "/Th3You7/quizUp.git/static/css/main.a44c706b.chunk.css.map",
+    "static/js/2.3470cb95.chunk.js.LICENSE.txt": "/Th3You7/quizUp.git/static/js/2.3470cb95.chunk.js.LICENSE.txt",
+    "static/media/celebrities.png": "/Th3You7/quizUp.git/static/media/celebrities.51eb0154.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.316229a1.js",
+    "static/js/2.3470cb95.chunk.js",
+    "static/css/main.a44c706b.chunk.css",
+    "static/js/main.b37fb8cf.chunk.js"
+  ]
+}
